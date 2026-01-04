@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MovementHandler.cs" />
-    <Compile Include="Assets\Scripts\PositionManager.cs" />
+    <Compile Include="Assets\Scripts\PositionHandler.cs" />
     <Compile Include="Assets\Scripts\RotationPoint.cs" />
   </ItemGroup>
   <ItemGroup>
