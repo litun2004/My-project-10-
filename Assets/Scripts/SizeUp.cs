@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PositionHandler : MonoBehaviour
+public class SizeUp : MonoBehaviour
 {
     [SerializeField] private Vector3 _scaleIncrement;
     [SerializeField] private float _speedMultiplier;
